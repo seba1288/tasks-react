@@ -1,0 +1,27 @@
+#but {
+    border: 2px solid red;
+    border-radius: 10px;
+    padding: 26px;
+    text-align: center;
+    width: 30%;
+}
+
+
+
+button {
+   font-size: 15px;
+   width: 20%;
+    background-color: #d9d9d9;
+    border: 0px;
+    font-weight: bold;
+}
+
+.Button {
+    
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+}
